@@ -1,4 +1,3 @@
-import re
 def arithmetic_arranger(problems, show = False):  
     if len(problems) > 5: #Checks if the list is greater than 5
       return "Error: Too many problems."
